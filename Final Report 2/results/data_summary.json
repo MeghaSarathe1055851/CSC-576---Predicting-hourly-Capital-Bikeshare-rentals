@@ -1,0 +1,36 @@
+{
+  "features": [
+    "hr",
+    "workingday",
+    "season",
+    "weathersit",
+    "mnth",
+    "weekday",
+    "holiday",
+    "temp",
+    "hum",
+    "windspeed",
+    "yr",
+    "atemp"
+  ],
+  "target": {
+    "count": 17379.0,
+    "mean": 189.46308763450142,
+    "std": 181.38759909186473,
+    "min": 1.0,
+    "25%": 40.0,
+    "50%": 142.0,
+    "75%": 281.0,
+    "max": 977.0
+  },
+  "train_rows": 13747,
+  "test_rows": 3632,
+  "train_mean": 173.44766130792172,
+  "test_mean": 250.08094713656388,
+  "train_start": "2011-01-01",
+  "train_end": "2012-07-31",
+  "test_start": "2012-08-01",
+  "test_end": "2012-12-31",
+  "peak_cutoff": 576.9000000000001,
+  "peak_bias": -162.34693702508574
+}
